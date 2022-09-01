@@ -11,7 +11,7 @@ function check_login(){
         document.location.href = "login.html";
 
     } else{
-        alert("Usuário ou senha errados");
+        alert("Usuário ou senha incorreta");
         
     }
         
